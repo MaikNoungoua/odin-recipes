@@ -1,0 +1,14 @@
+/* styles.css*/
+
+.test-header {
+    /*height: 5px;*/
+    /*width: 100px;*/
+    text-align: center;
+    color:black;
+    /*background-color: azure;*/
+}
+
+.meal-image {
+    height: auto;
+    width: 500px; 
+}
