@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(242, 192, 65);
+}
+
+.welcome-message{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 20px;
+}
+
+.welcome-picture{
+    display: inline-flex;
+}
+
+img{
+    height: 600px;
+    width: 600px;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+.links{
+    
+    display: flex;
+}
+ul{
+    display: inline-flex;
+    list-style-type: none;
+    justify-content: space-between;
+    gap: 45px;
+}
+
+.picto-food{
+    width: 90px;
+    height: 90px;
+}

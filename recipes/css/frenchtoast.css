@@ -1,5 +1,9 @@
 /* styles.css*/
 
+body{
+    background-color: rgb(248, 225, 145);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+}
 .test-header {
     /*height: 5px;*/
     /*width: 100px;*/
