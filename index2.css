@@ -1,0 +1,81 @@
+.main-container{
+    background-color: rgb(199, 225, 107);   
+    height: 500px;
+    width: 700px;
+    justify-content: space-around;
+    padding: 10px;
+    
+
+}
+
+
+.blue{
+    background-color: rgb(89, 148, 224);
+    height: 100px;
+    width: 700px;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+
+}
+.one{
+    background-color: rgb(243, 191, 127);
+    width: 200px;
+    height: 60px;
+    margin-top: 15px;
+    border: 2px rgb(221, 149, 72) solid;
+}
+
+.one#contains2{
+    display: inline-flex;
+    justify-content: space-around;
+    
+}
+
+#one{
+    justify-content: space-around;
+    border: solid rgb(228, 5, 5) 2px;
+    width: 90px;
+    height: 40px;
+    margin-top: 9px;
+
+}
+
+.forsection2{
+    margin-top: 20px;
+    height: 200px;
+    /*background-color: rgb(229, 130, 146);*/
+
+    display: flex;
+
+}
+ .two{
+    width:300px;
+    height: 180px;
+    background-color: rgb(229, 130, 146);
+    display: inline-block;
+    margin: 10px;
+    justify-items: center;
+    padding-left: 30px;
+ }
+
+ .two#vertical{
+    display: block;
+    padding-right: 16px;
+    gap: 5px;
+    background-color: rgb(199, 225, 107) ;
+    
+    
+ }
+
+ .three{
+    background-color: rgb(229, 130, 146);
+    height: 85px;
+    margin: 5px;
+    border:rgb(228, 5, 5) solid 2px;
+    
+ }
+
+ .one.last{
+    background-color: rgb(254, 202, 254);
+ }
